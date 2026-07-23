@@ -64,7 +64,7 @@ const handleSubmit = async () => {
       <div class="auth-header">
         <div class="auth-logo">
           <Sparkles class="auth-logo-icon" :size="32" />
-          <span>NovaNotes</span>
+          <span>CM Notes</span>
         </div>
         <p class="auth-subtitle">Join us to organize your tasks & ideas</p>
       </div>

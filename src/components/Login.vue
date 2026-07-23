@@ -39,7 +39,7 @@ const handleSubmit = async () => {
       <div class="auth-header">
         <div class="auth-logo">
           <Sparkles class="auth-logo-icon" :size="32" />
-          <span>NovaNotes</span>
+          <span>CM Notes</span>
         </div>
         <p class="auth-subtitle">Capture thoughts, secure your ideas</p>
       </div>

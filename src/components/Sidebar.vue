@@ -37,7 +37,7 @@ const handleLogout = () => {
     <div class="sidebar-header">
       <div class="sidebar-logo">
         <Sparkles class="sidebar-logo-icon" :size="24" />
-        <span>NovaNotes</span>
+        <span>CM Notes</span>
       </div>
       <button class="sidebar-close-btn" @click="isSidebarOpen = false">
         <X :size="20" />

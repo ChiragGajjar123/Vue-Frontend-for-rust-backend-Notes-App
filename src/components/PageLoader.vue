@@ -12,7 +12,7 @@ import Spinner from './Spinner.vue'
         </svg>
         <Spinner :size="64" color="var(--accent)" :thickness="3" />
       </div>
-      <h2 class="page-loader-title">NovaNotes</h2>
+      <h2 class="page-loader-title">CM Notes</h2>
       <p class="page-loader-sub">Loading your workspace…</p>
     </div>
   </div>
